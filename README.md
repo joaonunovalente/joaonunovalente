@@ -32,10 +32,10 @@ Python • Docker • MATLAB
 - Mechanical vibrations: modal analysis, vibrometry, MEMS accelerometers  
 
 #### Software Development
-- Full-stack apps using React, Next.js, Django, and lightweight JS stacks  
-- Automation with Python, Google Apps Script, and Bash  
-- Dockerized environments and Linux workflow tools  
-- Static websites and minimal deployment setups  
+- JavaScript scripting and automation (Google Apps Script)
+- Docker containerization and Linux-based workflows
+- Lightweight web stacks: React, PicoCSS, minimal static sites
+- Data processing and analysis with MATLAB and Python libraries
 
 ### Projects & Work
 
@@ -57,7 +57,7 @@ Python • Docker • MATLAB
   <tr>
     <td>Robot Game</td>
     <td>Python/Pygame arcade game exported via Pygbag</td>
-    <td><a href="https://github.com/joaonunovalente/robot-game">Repository</a> <a href="https://robot-game.joaonunovalente.com">Play</a></td>
+    <td><a href="https://github.com/joaonunovalente/robot-game">Repository</a> <a href="https://robot-game.joaonunovalente.com">Website</a></td>
     <td>Arcade-style web game deployed in Docker</td>
   </tr>
   <tr>
@@ -69,7 +69,7 @@ Python • Docker • MATLAB
   <tr>
     <td>Bio</td>
     <td>Minimal Pico-CSS personal site</td>
-    <td><a href="https://github.com/joaonunovalente/bio">Repository</a> • <a href="https://bio.joaonunovalente.com">Site</a></td>
+    <td><a href="https://github.com/joaonunovalente/bio">Repository</a> <a href="https://bio.joaonunovalente.com">Website</a></td>
     <td>Clean, fast personal bio page</td>
   </tr>
 </table>
