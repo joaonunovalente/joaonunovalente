@@ -17,39 +17,41 @@
 
 ---
 
-
 ## João Nuno Valente
 
-PhD candidate  
-MEchanical Engineering at University of Aveiro
+PhD Candidate in Mechanical Engineering  
+University of Aveiro  
 Python • Docker • MATLAB
 
 ### What I do
-**PhD & Research**
-- Real-time 3D laser vibrometry using a scanning laser + RGB-D tracking  
-- Point-cloud registration and surface tracking pipelines  
+
+#### PhD & Research
+- Real-time 3D laser vibrometry with scanning laser + RGB-D tracking  
+- Point-cloud registration and surface-tracking pipelines  
 - Data acquisition and robotic automation workflows  
 - Mechanical vibrations: modal analysis, vibrometry, MEMS sensing  
 
-**Software / Development**
+#### Software Development
 - Full-stack apps using React, Next.js, Django, and lightweight JS stacks  
 - Automation with Python, Google Apps Script, and Bash  
-- Dockerized dev environments and Linux workflows  
-- Static websites and quick deployment tooling
+- Dockerized environments and Linux workflow tools  
+- Static websites and minimal deployment setups  
 
 ### Projects & Work
-- **Cantinas.pt** — Cloudflare Worker + JS frontend, real-time UA canteen menus  
-- **Robot Game** — Python/Pygame arcade game exported via Pygbag  
-- **PhD Website** — Static Jekyll site for research updates  
-- **Sign Language Digit Recognition** — CNN classifier with full training pipeline  
-- **Bio Website** — Minimal Pico-CSS personal page
+<div align="center">
 
+| Project               | Description                                   |
+|-----------------------|-----------------------------------------------|
+| Epson Print Keeper    | Auto-printing script to prevent ink clogs     |
+| Django Slug Generator | Clean, automatic slug creation for Django     |
+| Spotify Stats         | API-based listening analytics                 |
+| Personal Website      | Next.js portfolio with animations             |
 
+</div>
 
-## Projects
-| Name | Description | Links |
-|------|-------------|--------|
-| Cantinas.pt | UA canteen menus, Cloudflare Worker | [Repo](https://github.com/joaonunovalente/cantinas) • [Site](https://cantinas.pt) |
-| Robot Game | Python/Pygame arcade game | [Repo](https://github.com/joaonunovalente/robot-game) • [Play](https://robot-game.joaonunovalente.com) |
-| PhD Website | Research updates (Jekyll) | [Repo](https://github.com/joaonunovalente/phd-website) |
-| Bio | Minimal Pico-CSS personal site | [Site](https://bio.joaonunovalente.com) |
+|       Project        |                 Description                 |
+|:--------------------:|:-------------------------------------------:|
+| Epson Print Keeper   | Auto-printing script to prevent ink clogs   |
+| Django Slug Generator| Clean, automatic slug creation for Django   |
+| Spotify Stats        | API-based listening analytics               |
+| Personal Website     | Next.js portfolio with animations           |
