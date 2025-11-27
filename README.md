@@ -16,9 +16,9 @@
 
 ## João Nuno Valente
 
-PhD Candidate in Mechanical Engineering  
-University of Aveiro  
-Python • Docker • MATLAB
+- PhD Candidate in Mechanical Engineering  
+- University of Aveiro  
+- Python • Docker • JavaScript • React • MATLAB
 
 ### What I do
 
@@ -34,7 +34,7 @@ Python • Docker • MATLAB
 - Lightweight web stacks: React, PicoCSS, minimal static sites
 - Data processing and analysis with MATLAB and Python libraries
 
-### Projects & Work
+### Projects
 
 <div align="center" style="width: 100%;">
 
