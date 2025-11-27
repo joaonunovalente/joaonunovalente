@@ -48,12 +48,12 @@
 
   <tr>
     <td>Cantinas.pt</td>
-    <td>Website that shows the menus available today in the University of Aveiro cafeterias.</td>
+    <td>Website that shows the menus available today in the University of Aveiro cafeterias</td>
     <td>
       <a href="https://github.com/joaonunovalente/cantinas">Repository</a>
       <a href="https://cantinas.pt">Website</a>
     </td>
-    <td>Cloudfare Worker for API + simple HTML/JS frontend</td>
+    <td>Cloudfare Worker for API + JavaScript</td>
   </tr>
 
   <tr>
@@ -88,7 +88,7 @@
 
   <tr>
     <td>Sign Language Digit Recognition</td>
-    <td>A machine learning system that classifies hand-sign gestures for digits 1–10 using CNN and FCNN models.</td>
+    <td>A machine learning system that classifies hand-sign gestures for digits 1–10 using CNN and FCNN models</td>
     <td>
       <a href="https://github.com/joaonunovalente/Recognition-of-Sign-Language-Digits">Repository</a> 
     </td>
