@@ -23,9 +23,9 @@
 ### What I do
 
 #### PhD & Research
-- Real-time 3D laser vibrometry with scanning laser + RGB-D cameras  
+- 3D laser vibrometry with scanning laser + RGB-D cameras  
 - Point-cloud registration and surface-tracking  
-- Data acquisition and robotic automation workflows  
+- Data acquisition and robotic automation  
 - Mechanical vibrations: modal analysis, vibrometry, MEMS accelerometers  
 
 #### Software Development
@@ -45,30 +45,48 @@
     <th style="width: 30%; text-align: left;">Links</th>
     <th style="width: 20%; text-align: left;">Comments</th>
   </tr>
+
   <tr>
     <td>Cantinas.pt</td>
-    <td>UA canteen menus, built with Cloudflare Worker + JS</td>
-    <td><a href="https://github.com/joaonunovalente/cantinas">Repository</a> <a href="https://cantinas.pt">Website</a></td>
-    <td>Real-time menu aggregation platform</td>
+    <td>Website that shows the menus available today in the University of Aveiro cafeterias.</td>
+    <td>
+      <a href="https://github.com/joaonunovalente/cantinas">Repository</a> |
+      <a href="https://cantinas.pt">Website</a>
+    </td>
+    <td>Python backend + simple HTML/JS frontend</td>
   </tr>
+
   <tr>
     <td>Robot Game</td>
     <td>Python/Pygame arcade game exported via Pygbag</td>
-    <td><a href="https://github.com/joaonunovalente/robot-game">Repository</a> <a href="https://robot-game.joaonunovalente.com">Website</a></td>
-    <td>Arcade-style web game deployed in Docker</td>
+    <td>
+      <a href="https://github.com/joaonunovalente/robot-game">Repository</a> |
+      <a href="https://robot-game.joaonunovalente.com">Website</a>
+    </td>
+    <td>Pygame + Pygbag, packaged with Docker</td>
   </tr>
+
   <tr>
     <td>PhD Website</td>
-    <td>Static Jekyll site for research updates</td>
-    <td><a href="https://github.com/joaonunovalente/phd-website">Repository</a> <a href="https://phd.joaonunovalente.com">Website</a></td>
-    <td>Hosts research progress and publications</td>
+    <td>Built with Jekyll, used to publish research updates</td>
+    <td>
+      <a href="https://github.com/joaonunovalente/phd-website">Repository</a> |
+      <a href="https://phd.joaonunovalente.com">Website</a>
+    </td>
+    <td>Jekyll static site, GitHub Pages deployment</td>
   </tr>
+
   <tr>
     <td>Bio</td>
-    <td>Minimal Pico-CSS personal site</td>
-    <td><a href="https://github.com/joaonunovalente/bio">Repository</a> <a href="https://bio.joaonunovalente.com">Website</a></td>
-    <td>Clean, fast personal bio page</td>
+    <td>A minimalist page built with Pico CSS</td>
+    <td>
+      <a href="https://github.com/joaonunovalente/bio">Repository</a> |
+      <a href="https://bio.joaonunovalente.com">Website</a>
+    </td>
+    <td>PicoCSS + plain HTML</td>
   </tr>
+
 </table>
 
 </div>
+
