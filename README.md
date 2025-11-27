@@ -50,7 +50,7 @@
     <td>Cantinas.pt</td>
     <td>Website that shows the menus available today in the University of Aveiro cafeterias.</td>
     <td>
-      <a href="https://github.com/joaonunovalente/cantinas">Repository</a> |
+      <a href="https://github.com/joaonunovalente/cantinas">Repository</a>
       <a href="https://cantinas.pt">Website</a>
     </td>
     <td>Python backend + simple HTML/JS frontend</td>
@@ -60,7 +60,7 @@
     <td>Robot Game</td>
     <td>Python/Pygame arcade game exported via Pygbag</td>
     <td>
-      <a href="https://github.com/joaonunovalente/robot-game">Repository</a> |
+      <a href="https://github.com/joaonunovalente/robot-game">Repository</a> 
       <a href="https://robot-game.joaonunovalente.com">Website</a>
     </td>
     <td>Pygame + Pygbag, packaged with Docker</td>
@@ -70,7 +70,7 @@
     <td>PhD Website</td>
     <td>Built with Jekyll, used to publish research updates</td>
     <td>
-      <a href="https://github.com/joaonunovalente/phd-website">Repository</a> |
+      <a href="https://github.com/joaonunovalente/phd-website">Repository</a> 
       <a href="https://phd.joaonunovalente.com">Website</a>
     </td>
     <td>Jekyll static site, GitHub Pages deployment</td>
@@ -80,7 +80,7 @@
     <td>Bio</td>
     <td>A minimalist page built with Pico CSS</td>
     <td>
-      <a href="https://github.com/joaonunovalente/bio">Repository</a> |
+      <a href="https://github.com/joaonunovalente/bio">Repository</a> 
       <a href="https://bio.joaonunovalente.com">Website</a>
     </td>
     <td>PicoCSS + plain HTML</td>
