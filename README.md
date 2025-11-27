@@ -47,7 +47,7 @@
   </tr>
 
   <tr>
-    <td>Csantinas.pt</td>
+    <td>Cantinas.pt</td>
     <td>Website that shows the menus available today in the University of Aveiro cafeterias.</td>
     <td>
       <a href="https://github.com/joaonunovalente/cantinas">Repository</a>
@@ -86,6 +86,14 @@
     <td>PicoCSS</td>
   </tr>
 
+  <tr>
+    <td>Sign-Language-Digit-Recognition</td>
+    <td>A machine learning system that classifies hand-sign gestures for digits 1–10 using CNN and Fully Connected Neural Network models.</td>
+    <td>
+      <a href="https://github.com/joaonunovalente/Recognition-of-Sign-Language-Digits">Repository</a> 
+    </td>
+    <td>Jupyter Notebook & TensorFlow</td>
+  </tr>
 </table>
 
 </div>
