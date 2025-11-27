@@ -40,14 +40,14 @@
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <th style="width: 30%; text-align: left;">Name</th>
+    <th style="width: 40%; text-align: left;">Name</th>
     <th style="width: 20%; text-align: left;">Description</th>
     <th style="width: 30%; text-align: left;">Links</th>
     <th style="width: 20%; text-align: left;">Comments</th>
   </tr>
 
   <tr>
-    <td>Cantinas.pt</td>
+    <td>Csantinas.pt</td>
     <td>Website that shows the menus available today in the University of Aveiro cafeterias.</td>
     <td>
       <a href="https://github.com/joaonunovalente/cantinas">Repository</a>
@@ -57,7 +57,7 @@
   </tr>
 
   <tr>
-    <td>Robot Game</td>
+    <td>Robot-Game</td>
     <td>Python/Pygame arcade game exported via Pygbag</td>
     <td>
       <a href="https://github.com/joaonunovalente/robot-game">Repository</a> 
@@ -67,7 +67,7 @@
   </tr>
 
   <tr>
-    <td>PhD Website</td>
+    <td>PhD-Website</td>
     <td>Built with Jekyll, used to publish research updates</td>
     <td>
       <a href="https://github.com/joaonunovalente/phd-website">Repository</a> 
@@ -83,7 +83,7 @@
       <a href="https://github.com/joaonunovalente/bio">Repository</a> 
       <a href="https://bio.joaonunovalente.com">Website</a>
     </td>
-    <td>PicoCSS + plain HTML</td>
+    <td>PicoCSS</td>
   </tr>
 
 </table>
