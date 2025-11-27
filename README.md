@@ -87,12 +87,12 @@
   </tr>
 
   <tr>
-    <td>Sign-Language-Digit-Recognition</td>
+    <td>Sign Language Digit Recognition</td>
     <td>A machine learning system that classifies hand-sign gestures for digits 1–10 using CNN and Fully Connected Neural Network models.</td>
     <td>
       <a href="https://github.com/joaonunovalente/Recognition-of-Sign-Language-Digits">Repository</a> 
     </td>
-    <td>Jupyter Notebook & TensorFlow</td>
+    <td>TensorFlow</td>
   </tr>
 </table>
 
