@@ -53,7 +53,7 @@
       <a href="https://github.com/joaonunovalente/cantinas">Repository</a>
       <a href="https://cantinas.pt">Website</a>
     </td>
-    <td>Python backend + simple HTML/JS frontend</td>
+    <td>Cloudfare Worker for API + simple HTML/JS frontend</td>
   </tr>
 
   <tr>
