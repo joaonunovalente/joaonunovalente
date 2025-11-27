@@ -31,7 +31,7 @@
 #### Software Development
 - JavaScript scripting and automation (Google Apps Script)
 - Docker containerization and Linux-based workflows
-- Lightweight web stacks: React, PicoCSS, minimal static sites
+- Frontend web stacks: React, PicoCSS, minimal static sites
 - Data processing and analysis with MATLAB and Python libraries
 
 ### Projects
