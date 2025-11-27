@@ -14,7 +14,7 @@
 
 ---
 
-## João Nuno Valente
+# João Nuno Valente
 
 - PhD Candidate in Mechanical Engineering  
 - University of Aveiro  
