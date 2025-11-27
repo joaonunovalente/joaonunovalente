@@ -18,12 +18,14 @@
 ---
 
 
-I'm **João Nuno Valente**, a PhD candidate in Mechanical Engineering at the University of Aveiro.  
-My research focuses on real-time 3D laser vibrometry, depth-camera tracking, and robotic automation.  
-I also build practical software tools — from web apps to automation workflows.
+## João Nuno Valente
 
-### 🌱 What I do
-**PhD / Research**
+PhD candidate  
+MEchanical Engineering at University of Aveiro
+Python • Docker • MATLAB
+
+### What I do
+**PhD & Research**
 - Real-time 3D laser vibrometry using a scanning laser + RGB-D tracking  
 - Point-cloud registration and surface tracking pipelines  
 - Data acquisition and robotic automation workflows  
@@ -35,7 +37,7 @@ I also build practical software tools — from web apps to automation workflows.
 - Dockerized dev environments and Linux workflows  
 - Static websites and quick deployment tooling
 
-### 🧩 Projects & Work
+### Projects & Work
 - **Cantinas.pt** — Cloudflare Worker + JS frontend, real-time UA canteen menus  
 - **Robot Game** — Python/Pygame arcade game exported via Pygbag  
 - **PhD Website** — Static Jekyll site for research updates  
@@ -44,3 +46,10 @@ I also build practical software tools — from web apps to automation workflows.
 
 
 
+## Projects
+| Name | Description | Links |
+|------|-------------|--------|
+| Cantinas.pt | UA canteen menus, Cloudflare Worker | [Repo](https://github.com/joaonunovalente/cantinas) • [Site](https://cantinas.pt) |
+| Robot Game | Python/Pygame arcade game | [Repo](https://github.com/joaonunovalente/robot-game) • [Play](https://robot-game.joaonunovalente.com) |
+| PhD Website | Research updates (Jekyll) | [Repo](https://github.com/joaonunovalente/phd-website) |
+| Bio | Minimal Pico-CSS personal site | [Site](https://bio.joaonunovalente.com) |
