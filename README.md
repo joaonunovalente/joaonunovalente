@@ -26,10 +26,10 @@ Python • Docker • MATLAB
 ### What I do
 
 #### PhD & Research
-- Real-time 3D laser vibrometry with scanning laser + RGB-D tracking  
-- Point-cloud registration and surface-tracking pipelines  
+- Real-time 3D laser vibrometry with scanning laser + RGB-D cameras  
+- Point-cloud registration and surface-tracking  
 - Data acquisition and robotic automation workflows  
-- Mechanical vibrations: modal analysis, vibrometry, MEMS sensing  
+- Mechanical vibrations: modal analysis, vibrometry, MEMS accelerometers  
 
 #### Software Development
 - Full-stack apps using React, Next.js, Django, and lightweight JS stacks  
@@ -43,10 +43,10 @@ Python • Docker • MATLAB
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <th style="width: 20%; text-align: left;">Name</th>
-    <th style="width: 30%; text-align: left;">Description</th>
-    <th style="width: 50%; text-align: left;">Links</th>
-    <th style="width: 30%; text-align: left;">Comments</th>
+    <th style="width: 30%; text-align: left;">Name</th>
+    <th style="width: 20%; text-align: left;">Description</th>
+    <th style="width: 30%; text-align: left;">Links</th>
+    <th style="width: 20%; text-align: left;">Comments</th>
   </tr>
   <tr>
     <td>Cantinas.pt</td>
