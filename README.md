@@ -38,20 +38,35 @@ Python • Docker • MATLAB
 - Static websites and minimal deployment setups  
 
 ### Projects & Work
+
 <div align="center">
 
-| Project               | Description                                   |
-|-----------------------|-----------------------------------------------|
-| Epson Print Keeper    | Auto-printing script to prevent ink clogs     |
-| Django Slug Generator | Clean, automatic slug creation for Django     |
-| Spotify Stats         | API-based listening analytics                 |
-| Personal Website      | Next.js portfolio with animations             |
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Links</th>
+  </tr>
+  <tr>
+    <td>Cantinas.pt</td>
+    <td>UA canteen menus, built with Cloudflare Worker + JS</td>
+    <td><a href="https://github.com/joaonunovalente/cantinas">Repo</a> • <a href="https://cantinas.pt">Site</a></td>
+  </tr>
+  <tr>
+    <td>Robot Game</td>
+    <td>Python/Pygame arcade game exported via Pygbag</td>
+    <td><a href="https://github.com/joaonunovalente/robot-game">Repo</a> • <a href="https://robot-game.joaonunovalente.com">Play</a></td>
+  </tr>
+  <tr>
+    <td>PhD Website</td>
+    <td>Static Jekyll site for research updates</td>
+    <td><a href="https://github.com/joaonunovalente/phd-website">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Bio</td>
+    <td>Minimal Pico-CSS personal site</td>
+    <td><a href="https://github.com/joaonunovalente/bio">Repo</a> • <a href="https://bio.joaonunovalente.com">Site</a></td>
+  </tr>
+</table>
 
 </div>
-
-|       Project        |                 Description                 |
-|:--------------------:|:-------------------------------------------:|
-| Epson Print Keeper   | Auto-printing script to prevent ink clogs   |
-| Django Slug Generator| Clean, automatic slug creation for Django   |
-| Spotify Stats        | API-based listening analytics               |
-| Personal Website     | Next.js portfolio with animations           |
