@@ -39,33 +39,38 @@ Python • Docker • MATLAB
 
 ### Projects & Work
 
-<div align="center">
+<div align="center" style="width: 100%;">
 
-<table>
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <th>Name</th>
-    <th>Description</th>
-    <th>Links</th>
+    <th style="width: 15%; text-align: left;">Name</th>
+    <th style="width: 30%; text-align: left;">Description</th>
+    <th style="width: 15%; text-align: left;">Links</th>
+    <th style="width: 30%; text-align: left;">Comments</th>
   </tr>
   <tr>
     <td>Cantinas.pt</td>
     <td>UA canteen menus, built with Cloudflare Worker + JS</td>
     <td><a href="https://github.com/joaonunovalente/cantinas">Repo</a> • <a href="https://cantinas.pt">Site</a></td>
+    <td>Real-time menu aggregation platform</td>
   </tr>
   <tr>
     <td>Robot Game</td>
     <td>Python/Pygame arcade game exported via Pygbag</td>
     <td><a href="https://github.com/joaonunovalente/robot-game">Repo</a> • <a href="https://robot-game.joaonunovalente.com">Play</a></td>
+    <td>Arcade-style web game deployed in Docker</td>
   </tr>
   <tr>
     <td>PhD Website</td>
     <td>Static Jekyll site for research updates</td>
-    <td><a href="https://github.com/joaonunovalente/phd-website">Repo</a></td>
+    <td><a href="https://github.com/joaonunovalente/phd-website">Repo</a> • <a href="https://phd.joaonunovalente.com">Site</a></td>
+    <td>Hosts research progress and publications</td>
   </tr>
   <tr>
     <td>Bio</td>
     <td>Minimal Pico-CSS personal site</td>
     <td><a href="https://github.com/joaonunovalente/bio">Repo</a> • <a href="https://bio.joaonunovalente.com">Site</a></td>
+    <td>Clean, fast personal bio page</td>
   </tr>
 </table>
 
