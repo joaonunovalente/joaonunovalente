@@ -1,17 +1,17 @@
 ![Header](/github-header-banner.png)
 
 <p align="center">
+  <a href="https://joaonunovalente.com" target="_blank" rel="noopener noreferrer">
+    <img height="30" src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=firefox-browser&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/JoaoNunoValente" target="_blank" rel="noopener noreferrer">
     <img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/joaonunovalente" target="_blank" rel="noopener noreferrer">
-    <img height="30" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <a href="https://phd.joaonunovalente.com" target="_blank" rel="noopener noreferrer">
+    <img height="30" src="https://img.shields.io/badge/PhD%20Website-000000?style=flat-square&logo=readthedocs&logoColor=white" />
   </a>
   <a href="mailto:hello@joaonunovalente.com" target="_blank" rel="noopener noreferrer">
     <img height="30" src="https://img.shields.io/badge/Email-c14438?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://joaonunovalente.com" target="_blank" rel="noopener noreferrer">
-    <img height="30" src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=firefox-browser&logoColor=white" />
   </a>
 </p>
 
