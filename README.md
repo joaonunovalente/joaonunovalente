@@ -40,7 +40,7 @@
 
 <table style="width: 100%; border-collapse: collapse;">
 <tr>
-<th style="width: 40%; text-align: left;">Name</th>
+<th style="width: 40%; text-align: left;">Repository</th>
 <th style="width: 20%; text-align: left;">Description</th>
 <th style="width: 30%; text-align: left;">Links</th>
 <th style="width: 20%; text-align: left;">Comments</th>
