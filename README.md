@@ -21,7 +21,7 @@
 
 - PhD Candidate in Mechanical Engineering  
 - University of Aveiro  
-- Python • Docker • JavaScript • React • MATLAB
+- Python • Docker • JavaScript • React
 
 ### What I do
 
