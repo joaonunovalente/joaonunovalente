@@ -32,9 +32,9 @@
 - Mechanical vibrations: modal analysis, vibrometry, MEMS accelerometers  
 
 #### Software Development
-- JavaScript scripting and automation (Google Apps Script)
-- Docker containerization and Linux-based workflows
-- Frontend web stacks: React, PicoCSS, minimal static sites
+- JavaScript scripting and automation
+- Docker containerization
+- Frontend web stacks: React
 - Data processing and analysis with MATLAB and Python libraries
 
 ### Projects
